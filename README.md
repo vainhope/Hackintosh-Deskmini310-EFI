@@ -1,0 +1,1 @@
+# Hackintosh-Deskmini310-EFI
