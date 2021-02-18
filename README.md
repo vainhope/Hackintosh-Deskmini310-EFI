@@ -27,6 +27,3 @@
 - Super IO Configuration, Serial Port, Disabled（必须）
 - Security Secure Boot, Disabled(by default)
 - Boot, CSM, disabled
-
-#### 其他
-- 第一次睡眠唤醒会黑屏一次
